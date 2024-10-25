@@ -12,9 +12,9 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
-  web: ^1.1.0
+  web: ^0.5.1
   plugin_platform_interface: ^2.0.2
-  flutter_inappwebview: ^6.1.5
+  flutter_inappwebview: ^6.0.0
 
 dev_dependencies:
   flutter_test:
