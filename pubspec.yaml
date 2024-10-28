@@ -1,4 +1,4 @@
-name: customer_pulse_flutter  # Package name
+name: customerpulse_flutter  # Package name
 description: A Flutter plugin to integrate UAE customer pulse functionality.
 version: 1.0.0  # Use semantic versioning
 
@@ -6,7 +6,7 @@ homepage: https://github.com/KalvadTech/CustomerPulse-flutter
 repository: https://github.com/KalvadTech/CustomerPulse-flutter
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"  # Ensure compatibility with null safety
+  sdk: ">=2.17.0 <3.0.0"  # Ensure compatibility with null safety
   flutter: '>=3.3.0'
 
 dependencies:
