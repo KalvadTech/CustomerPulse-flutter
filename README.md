@@ -32,7 +32,7 @@ This repository provides the **CustomerPulse Flutter Plugin** for integrating UA
 import 'package:customer_pulse_flutter/customer_pulse_flutter.dart';
 ```
 
-### 2. Initialize the Plugin
+### 2. Full page survey
 
 Use the following code to display the survey form in a **full page**:
 
@@ -44,7 +44,7 @@ CustomerPulseFlutter().showSurveyPage(
 );
 ```
 
-### 3. Show the Feedback Form
+### 3. Bottom sheet survey
 
 Use the following code to display the survey form in a **bottom sheet**:
 
