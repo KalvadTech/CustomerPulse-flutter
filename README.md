@@ -75,7 +75,6 @@ CustomerPulseFlutter().showSurveyPage(
   options: {'lang': 'en'}
 );
 ```
-```
 
 ## Contributions
 
