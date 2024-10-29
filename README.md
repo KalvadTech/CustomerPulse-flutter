@@ -17,6 +17,11 @@ This repository provides the **CustomerPulse Flutter Plugin** for integrating UA
    dependencies:
      customer_pulse_flutter: ^latest_version
    ```
+   or use github link:
+   ```yaml
+   customerpulse_flutter:
+    git: https://github.com/KalvadTech/CustomerPulse-flutter.git
+   ```
 
 2. Install the package:
 
