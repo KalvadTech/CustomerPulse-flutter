@@ -9,7 +9,7 @@ class MethodChannelCustomerpulseFlutter extends CustomerpulseFlutterPlatform {
   /// The method channel used to interact with the native platform.
   @visibleForTesting
   final methodChannel = const MethodChannel('customerpulse_flutter');
-  static const _baseUrl = 'https://survey.customerpulse.gov.ae/';
+  static const _baseUrl = 'https://survey.customerpulse.gov.ae/v2/';
 
 
   @override
